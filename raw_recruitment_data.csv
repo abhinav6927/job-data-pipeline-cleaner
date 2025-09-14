@@ -1,0 +1,635 @@
+source,content,content_type,job_title,company,location,description,salary,experience,difficulty,category,experience_level,domain
+manual_collection,What is the difference between abstract class and interface in Java?,interview_question,,,,,,,intermediate,technical,,
+manual_collection,Explain the concept of polymorphism in object-oriented programming,interview_question,,,,,,,beginner,technical,,
+manual_collection,How do you handle exceptions in Python?,interview_question,,,,,,,advanced,technical,,
+manual_collection,What is the time complexity of quicksort algorithm?,interview_question,,,,,,,intermediate,technical,,
+manual_collection,Describe the MVC architecture pattern,interview_question,,,,,,,beginner,technical,,
+manual_collection,What is the difference between SQL and NoSQL databases?,interview_question,,,,,,,advanced,technical,,
+manual_collection,Explain RESTful web services and HTTP methods,interview_question,,,,,,,intermediate,technical,,
+manual_collection,What is the difference between stack and heap memory?,interview_question,,,,,,,beginner,technical,,
+manual_collection,How does garbage collection work in Java?,interview_question,,,,,,,advanced,technical,,
+manual_collection,Explain the concept of dependency injection,interview_question,,,,,,,intermediate,technical,,
+manual_collection,What is the difference between synchronous and asynchronous programming?,interview_question,,,,,,,beginner,technical,,
+manual_collection,Describe the SOLID principles of software design,interview_question,,,,,,,advanced,technical,,
+manual_collection,What is the difference between unit testing and integration testing?,interview_question,,,,,,,intermediate,technical,,
+manual_collection,Explain the concept of microservices architecture,interview_question,,,,,,,beginner,technical,,
+manual_collection,How do you optimize database queries for better performance?,interview_question,,,,,,,advanced,technical,,
+manual_collection,What is the difference between authentication and authorization?,interview_question,,,,,,,intermediate,technical,,
+manual_collection,Explain the concept of version control and Git workflow,interview_question,,,,,,,beginner,technical,,
+manual_collection,What are design patterns and give examples?,interview_question,,,,,,,advanced,technical,,
+manual_collection,How do you handle security in web applications?,interview_question,,,,,,,intermediate,technical,,
+manual_collection,Describe the software development lifecycle phases,interview_question,,,,,,,beginner,technical,,
+manual_collection,"Software Engineer with 3+ years experience in Java, Spring Boot, and microservices. Developed scalable web applications serving 100K+ users.",resume_summary,,,,,,,,,senior,software_engineering
+manual_collection,"Full Stack Developer proficient in React, Node.js, and MongoDB. Built responsive web applications with modern UI/UX design principles.",resume_summary,,,,,,,,,mid,software_engineering
+manual_collection,"Python Developer with expertise in Django, Flask, and data analysis. Experience in machine learning and AI model development.",resume_summary,,,,,,,,,junior,software_engineering
+manual_collection,"DevOps Engineer skilled in AWS, Docker, Kubernetes, and CI/CD pipelines. Automated deployment processes reducing deployment time by 60%.",resume_summary,,,,,,,,,senior,software_engineering
+manual_collection,Mobile App Developer with 4+ years in iOS and Android development. Published 5+ apps on App Store and Play Store with 50K+ downloads.,resume_summary,,,,,,,,,mid,software_engineering
+manual_collection,"Data Scientist with strong background in statistics, machine learning, and data visualization. Proficient in Python, R, and SQL.",resume_summary,,,,,,,,,junior,software_engineering
+manual_collection,"Frontend Developer specializing in Angular, Vue.js, and modern CSS frameworks. Created pixel-perfect responsive designs for enterprise clients.",resume_summary,,,,,,,,,senior,software_engineering
+manual_collection,"Backend Developer with expertise in .NET, C#, and SQL Server. Built robust APIs serving millions of requests per day.",resume_summary,,,,,,,,,mid,software_engineering
+manual_collection,Cloud Architect with AWS and Azure certifications. Designed and implemented scalable cloud infrastructure for enterprise applications.,resume_summary,,,,,,,,,junior,software_engineering
+manual_collection,"Security Engineer focused on application security, penetration testing, and vulnerability assessment. Certified in CISSP and CEH.",resume_summary,,,,,,,,,senior,software_engineering
+manual_collection,"QA Engineer with 5+ years in manual and automated testing. Expertise in Selenium, TestNG, and continuous testing practices.",resume_summary,,,,,,,,,mid,software_engineering
+manual_collection,Product Manager with technical background in software development. Led cross-functional teams to deliver products with 95% user satisfaction.,resume_summary,,,,,,,,,junior,software_engineering
+manual_collection,Systems Administrator with Linux and Windows server management experience. Maintained 99.9% uptime for critical business applications.,resume_summary,,,,,,,,,senior,software_engineering
+manual_collection,"Database Administrator specialized in MySQL, PostgreSQL, and Oracle. Optimized database performance improving query speed by 40%.",resume_summary,,,,,,,,,mid,software_engineering
+manual_collection,"Software Architect with 8+ years designing enterprise-level applications. Expert in system design, scalability, and performance optimization.",resume_summary,,,,,,,,,junior,software_engineering
+timesjobs,,job_description,Embedded Software Engineer /  Software Engineer,BHTC India Pvt Ltd,N/A,"Software Developer will be responsible for Analysis of requirements ,  implementation ,  testing and documentation of Automotive Software components  ... 
+     	 
+
+
+
+
+
+   					canoe
+   				
+
+   					microcontroller
+   				
+
+   					embedded c
+   				
+
+   					i2c
+   				
+
+   					embedded software engineer",,N/A,,,,
+timesjobs,,job_description,Senior Software Engineer  /  Software Engineer,BLUEBERRY LABS PRIVATE LIMITED,N/A,"Company Description Blueberry Digital Labs  ( www.blueberrylabs.com )  is a leading young and dynamic integrated digital technology Company with a por... 
+     	 
+
+
+
+
+
+   					html5
+   				
+
+   					problem solving
+   				
+
+   					javascript
+   				
+
+   					php
+   				
+
+   					mysql",,N/A,,,,
+timesjobs,,job_description,Software Engineer  /  Senior software Engineer,votary softech solution pvt ltd,N/A,"As the world leader in supplying integrated circuit and software solutions for cellular wireless standards ,  Qualcomm delivers complete and optimized... 
+     	 
+
+
+
+
+
+   					linux
+   				
+
+   					mobile
+   				
+
+   					software engineer
+   				
+
+   					senior software engineer
+   				
+
+   					itskills",,N/A,,,,
+timesjobs,,job_description,Software Engineer,Tekshapers Software Solutions  ( P )  Limited,N/A,"Job Description We are looking forward to hiring Master degree in Computer Science or Elect. Engineering with 6 months experience in Troy  ,  MI Locat... 
+     	 
+
+
+
+
+
+   					data services
+   				
+
+   					teradata
+   				
+
+   					sap bods
+   				
+
+   					data warehousing
+   				
+
+   					sql
+   				
+
+   					data quality
+   				
+
+   					etl
+   				
+
+   					informatica
+   				
+
+   					data integration",,N/A,,,,
+timesjobs,,job_description,Software Engineer,Dquip,N/A,"Software Engineer - PHP - Intern / Part TimeNote: For candidates residing in Mumbai and Thane.We have opportunities that can help you take your ideas ... 
+     	 
+
+
+
+
+
+   					service oriented
+   				
+
+   					css
+   				
+
+   					soa
+   				
+
+   					xml
+   				
+
+   					data structures
+   				
+
+   					software engineering
+   				
+
+   					html
+   				
+
+   					mysql
+   				
+
+   					javascript
+   				
+
+   					soap
+   				
+
+   					fundamentals
+   				
+
+   					algorithms
+   				
+
+   					oops
+   				
+
+   					software engineer
+   				
+
+   					mvc
+   				
+
+   					business applications
+   				
+
+   					rest
+   				
+
+   					rdbms
+   				
+
+   					team player
+   				
+
+   					windows
+   				
+
+   					written communication
+   				
+
+   					php
+   				
+
+   					unix   /   linux",,N/A,,,,
+timesjobs,,job_description,Software Engineer,Indodana,N/A,"Work side-by-side with a mentor  ( Lead Software Engineer  /  Engineering Manager )  to help you accomplish team goals and grow together as a person.c... 
+     	 
+
+
+
+
+
+   					software engineering
+   				
+
+   					problem solving
+   				
+
+   					api development
+   				
+
+   					database management
+   				
+
+   					version control
+   				
+
+   					github
+   				
+
+   					rdbms
+   				
+
+   					java
+   				
+
+   					postgresql
+   				
+
+   					devops
+   				
+
+   					mysql",,N/A,,,,
+timesjobs,,job_description,Software Engineer,IQVIA,N/A,"Job OverviewAssists with the design / development of software solutions requiring general domain knowledge and limited business expertise.troubleshoot... 
+     	 
+
+
+
+
+
+   					object oriented programming
+   				
+
+   					front end development
+   				
+
+   					back end development
+   				
+
+   					sql and databases
+   				
+
+   					troubleshooting code
+   				
+
+   					python
+   				
+
+   					css
+   				
+
+   					javascript
+   				
+
+   					ruby
+   				
+
+   					php
+   				
+
+   					html
+   				
+
+   					website development",,N/A,,,,
+timesjobs,,job_description,Software Engineer,silverlink technilogies,N/A,"Analyzing business requirements and providing a feasible technical solutionInvolved in technical analysis ,  coding ,  testing  ,  debugging and imple... 
+     	 
+
+
+
+
+
+   					hibernate
+   				
+
+   					sso
+   				
+
+   					sql
+   				
+
+   					java
+   				
+
+   					iam
+   				
+
+   					pim
+   				
+
+   					xml
+   				
+
+   					debugging
+   				
+
+   					software engineer
+   				
+
+   					html
+   				
+
+   					rest
+   				
+
+   					oracle
+   				
+
+   					access management
+   				
+
+   					problem solving",,N/A,,,,
+timesjobs,,job_description,Software Engineer-Trainee,Suretek Infosoft Pvt. Ltd.,N/A,"Qualification Regular B.Tech / MCA / MSC ( CS / IT )  / BE Degree Job Location Noida Experience Fresher Technology / Skills Multiple technologies Trai... 
+     	 
+
+
+
+
+
+   					java
+   				
+
+   					php
+   				
+
+   					software engineer",,Qualification Regular B.Tech / MCA / MSC ( CS / IT )  / BE Degree Job Location Noida Experience Fresher Technology / Skills Multiple technologies Trai...,,,,
+timesjobs,,job_description,Trainee Software Engineer,VISION EDUCARE and IT SOLUTION PRIVATE LIMITED,N/A,"Job Description Knowledge of Microsoft asp.net ,  c# ,  MVC.netHave basic knowledge of SQL QueryWorking knowledge of Visual Studio 2017 or AboveBasic ... 
+     	 
+
+
+
+
+
+   					c#
+   				
+
+   					css
+   				
+
+   					html5
+   				
+
+   					javascript
+   				
+
+   					jquery
+   				
+
+   					sql
+   				
+
+   					visual studio
+   				
+
+   					c# .net
+   				
+
+   					asp.net
+   				
+
+   					.net
+   				
+
+   					html
+   				
+
+   					web api
+   				
+
+   					mvc
+   				
+
+   					angularjs",,N/A,,,,
+timesjobs,,job_description,Software Engineer Intern,Cargill India Pvt. Ltd.,N/A,"Cargills size and scale allows us to make a positive impact in the world. Our purpose is to nourish the world in a safe ,  responsible and sustainable... 
+     	 
+
+
+
+
+
+   					software development
+   				
+
+   					cloud computing
+   				
+
+   					data analysis
+   				
+
+   					agile methodologies
+   				
+
+   					collaboration skills
+   				
+
+   					information technology
+   				
+
+   					associate software engineer
+   				
+
+   					software engineering
+   				
+
+   					big data
+   				
+
+   					technical skills
+   				
+
+   					written communication",,N/A,,,,
+timesjobs,,job_description,"Intern ,  Software Engineer",autodesk india pvt ltd,N/A,"Job Requisition ID25WD91327Position OverviewAutodesk is a global leader in 3D design ,  engineering ,  and entertainment software. The work we do at A... 
+     	 
+
+
+
+
+
+   					java development
+   				
+
+   					spring boot
+   				
+
+   					aws infrastructure
+   				
+
+   					agile methodologies
+   				
+
+   					react frontend
+   				
+
+   					rest
+   				
+
+   					javascript
+   				
+
+   					node.js
+   				
+
+   					consultant",,N/A,,,,
+timesjobs,,job_description,Software Engineer II,MASTERCARD,N/A,"Our PurposeMastercard powers economies and empowers people in 200  countries and territories worldwide. Together with our customers ,  were helping bu... 
+     	 
+
+
+
+
+
+   					software development
+   				
+
+   					agile methodologies
+   				
+
+   					object oriented programming
+   				
+
+   					problem solving
+   				
+
+   					communication skills
+   				
+
+   					algorithms
+   				
+
+   					c
+   				
+
+   					security
+   				
+
+   					java
+   				
+
+   					software engineer
+   				
+
+   					software engineering
+   				
+
+   					data structures
+   				
+
+   					python
+   				
+
+   					operating system",,N/A,,,,
+timesjobs,,job_description,"Intern ,  Software Engineer",autodesk india pvt ltd,N/A,"Job Requisition ID25WD91675Position OverviewWe are searching for Software Engineering Interns to join us for the summer of 2026 in Oslo and contribute... 
+     	 
+
+
+
+
+
+   					software development
+   				
+
+   					machine learning
+   				
+
+   					cloud computing
+   				
+
+   					web frameworks
+   				
+
+   					agile methodologies
+   				
+
+   					software engineering",,N/A,,,,
+timesjobs,,job_description,Intern Software Engineer,MICROCHIP TECHNOLOGY PRIVATE LIMITED,N/A,"Are you looking for a unique opportunity to be a part of something great? Want to join a 17 , 000-member team that works on the technology that powers... 
+     	 
+
+
+
+
+
+   					c   programming
+   				
+
+   					object oriented programming
+   				
+
+   					linux environment
+   				
+
+   					shell scripting
+   				
+
+   					fpga development
+   				
+
+   					algorithms
+   				
+
+   					oop
+   				
+
+   					git
+   				
+
+   					software engineer
+   				
+
+   					data structures
+   				
+
+   					tcl
+   				
+
+   					python
+   				
+
+   					svn
+   				
+
+   					infrastructure
+   				
+
+   					management systems
+   				
+
+   					clearcase",,N/A,,,,
+timesjobs,,job_description,Intern Software Engineer,MICROCHIP TECHNOLOGY PRIVATE LIMITED,N/A,"Are you looking for a unique opportunity to be a part of something great? Want to join a 17 , 000-member team that works on the technology that powers... 
+     	 
+
+
+
+
+
+   					c   programming
+   				
+
+   					object oriented design
+   				
+
+   					shell scripting
+   				
+
+   					ui  /  ux collaboration
+   				
+
+   					linux environment
+   				
+
+   					algorithms
+   				
+
+   					oop
+   				
+
+   					git
+   				
+
+   					software engineer
+   				
+
+   					data structures
+   				
+
+   					tcl
+   				
+
+   					python
+   				
+
+   					svn
+   				
+
+   					infrastructure
+   				
+
+   					management systems
+   				
+
+   					clearcase",,N/A,,,,
